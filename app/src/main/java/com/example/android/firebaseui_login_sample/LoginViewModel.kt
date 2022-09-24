@@ -21,7 +21,9 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.map
 import androidx.preference.PreferenceManager
 import kotlin.random.Random
-
+/*
+contains authState variable
+ */
 class LoginViewModel : ViewModel() {
 
     companion object {
